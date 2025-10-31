@@ -2,7 +2,7 @@ echo "triggerClassification: $1";
 
 . /app/HealthCheck/Script/REQUIREMENT/APPLICATION.CFG
 
-I
+
 alertType="$alertType"
 application="$ApplicationName"
 MorningAndManualFolder="$MorningAndManualFolder_1"
